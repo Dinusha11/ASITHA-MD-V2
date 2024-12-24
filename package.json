@@ -1,12 +1,12 @@
 {
-  "name": "ASITHA-MD",
+  "name": "Black Flag - Team",
   "version": "3.1.0",
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name ASITHA-MD",
-    "stop": "pm2 stop ASITHA-MD",
-    "restart": "pm2 restart ASITHA-MD"
+    "stop": "pm2 stop Black Flag - Team",
+    "restart": "pm2 restart Black Flag - Team"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "latest",
